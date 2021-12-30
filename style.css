@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #543;
+}
+.paraContainer{
+    position: relative;
+    top: 3em;
+}
+h1{
+    font-family: cursive;
+    font-size: 50px;
+    color: wheat;
+}
+p{
+    font-family: monospace;
+    font-size: 26px;
+    margin: 0;
+}
+.finalResult{
+    font-size: 30px;
+}
+form{
+    position: relative;
+    top:11em;
+    /* left: 30%; */
+}
+.btn{
+    border: none;
+    color:rgb(226, 71, 9);
+    font-family: monospace;
+    margin: 5px;
+    padding: 5px;
+    background-color: wheat;
+}
+.btn:hover{
+    background-color: darkblue;
+}
